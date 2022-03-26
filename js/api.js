@@ -23,3 +23,7 @@ inputCep.onkeyup = async (evento) => {
   console.log(conteudoResposta);
   alert("Cep Completo: " + inputCep.value);
 };
+
+
+
+
