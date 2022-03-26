@@ -15,8 +15,9 @@ body{
 .truck{
     width: 100%;
     background-image: url(../img/truck.gif);
+    background-repeat: no-repeat;
     background-size: 100%;
-    height: 280px;
+    height: 500px;
 }
 
 .inputs{
