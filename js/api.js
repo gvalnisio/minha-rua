@@ -1,6 +1,6 @@
 const inputCep = document.querySelector("#cep");
 const inputRua = document.querySelector("#rua");
-const inputCidade = document.querySelector("#complemento");
+const inputCidade = document.querySelector("#cidade");
 const inputBairro = document.querySelector("#bairro");
 const inputUF = document.querySelector("#UF");
 const BASE_URL = "https://brasilapi.com.br/api";
